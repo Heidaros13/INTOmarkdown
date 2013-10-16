@@ -4,6 +4,7 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 /cc @asabgud @heidaros13
 
+
 ## 1. Linux uppsetning
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
@@ -28,6 +29,14 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
+Creating the github acount was rather easy, but we had some problems copying the SSH key url from ubuntu to the web page as we count get the comand to work right, so we had to find the SSH file (was hiden used Ctrl H to make it visable) and open it with a text program and copy it from there to github.com.
+Also had some problems geting git clone to work (geting the file from github to the machine) but our porblem was that we dint wright the url right (used small h insted of big H and so on).
+The modification on the .cpp file was rather easy after we found all the commands that we needed (dint take that long with our good friend google).
+Geting the file back to github was easy all we had to do was the the command: "git push origin master".
+After we had transferd our files back to the mother ship we checkt to see if all changes had made it home and they did.
+The assignment was rather time consuming for use do to the fact that we had problems getting the programs that we where supose to use to work proberly, specaly virtualbox withc we both gave up on geting to work proberly, but after we instald Unbuntu on a USB drive we where abel to proberly start the assignment and after that it some not that bad. 
+ 
+
 * https://github.com/asabgud/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
@@ -46,7 +55,9 @@ Azureus/Vuze
 http://dev.vuze.com/
 GPL licence
 
-OpenOffice - Heiðar bæta við
+Apache OpenOffice3
+http:openoffice.org/download/source
+LPGL licence
 
 ## 5. Unnið með Git (2. hluti)
 
